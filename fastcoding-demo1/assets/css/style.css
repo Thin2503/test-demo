@@ -301,7 +301,7 @@ header .menu-icon:hover {
 }
 .section-drifter .wrapper {
     position: relative;
-    background: url(/fastcoding/assets/img/image12.png) center right/66.67% no-repeat;
+    background: url("../../assets/img/image12.png") center right/66.67% no-repeat;
     height: 600px;
     padding: 183px 0;
     display: flex;
