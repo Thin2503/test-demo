@@ -1,15 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
 /* @media (min-width:768px) and (max-width:1024px) {
 
 
@@ -349,7 +338,7 @@
     }
     .section-voyager .wrapper {
         padding: .5rem 0 0;
-        background: url(/fastcoding/assets/img/image11.png) top left/100% auto no-repeat;
+        background: url("../../assets/img/image11.png") top left/100% auto no-repeat;
         margin-bottom: 0;
         display: block;
         min-height: auto;
@@ -396,7 +385,7 @@
         display: none;
     }
     .section-drifter .wrapper {
-        background: url(/fastcoding/assets/img/image12.png) top left/100% auto no-repeat;
+        background: url("../../assets/img/image12.png") top left/100% auto no-repeat;
         min-height: 3rem;
         padding: .5rem .2rem;
         height: auto;
