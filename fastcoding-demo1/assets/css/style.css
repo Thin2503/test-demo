@@ -80,7 +80,7 @@ header .header-menu {
     color: #000;
     font-size: 20px;
     padding-right: 10px;
-    
+    z-index: 99;
 }
 header .menu-icon {
     display: none;
